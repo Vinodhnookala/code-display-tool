@@ -52,7 +52,7 @@ This project is built with:
 - Tailwind CSS
 
 
-**UI Design**
+## UI Design
 
 1. AI-Generated Modern Web UI
 
@@ -77,7 +77,7 @@ UI structures are built from reusable components (buttons, cards, modals), with 
 Once generated, Lovable provides a visual WYSIWYG-style UI editor where you can adjust spacing, colors, fonts, and layout without writing code yourself.
 
 
-**Backend Logic**
+## Backend Logic
 
 
 🧱 1. Data Model (Supabase/PostgreSQL)
