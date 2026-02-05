@@ -51,3 +51,27 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+- **UI Design**
+
+- 1. AI-Generated Modern Web UI
+
+The UI of generated apps is created by Lovable AI based on your prompts or imported designs like Figma.
+
+It typically uses modern web UI components built in React (or other front-end frameworks) — responsive and component-based.
+
+2. Tailwind CSS + Semantic Design Tokens
+
+Lovable outputs designs that use Tailwind CSS utility classes and semantic tokens (primary, secondary, accent, etc.) for consistent styling and theming.
+
+3. Inter and Monospace Fonts
+
+Interfaces often use the Inter font for text and a monospace font for code blocks by default, because that’s what Lovable’s design system tends to emit.
+
+4. Component-Based UI
+
+UI structures are built from reusable components (buttons, cards, modals), with spacing and layout standardized across screens.
+
+5. Visual Editing Support
+
+Once generated, Lovable provides a visual WYSIWYG-style UI editor where you can adjust spacing, colors, fonts, and layout without writing code yourself.
+
