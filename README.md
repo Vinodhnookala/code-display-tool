@@ -1,4 +1,4 @@
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**Output**:https://code-display-tool.lovable.app/
 
 
 Changes made via Lovable will be committed automatically to this repo.
