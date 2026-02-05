@@ -51,9 +51,10 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-- **UI Design**
 
-- 1. AI-Generated Modern Web UI
+**UI Design**
+
+1. AI-Generated Modern Web UI
 
 The UI of generated apps is created by Lovable AI based on your prompts or imported designs like Figma.
 
